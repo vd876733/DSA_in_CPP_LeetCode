@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
