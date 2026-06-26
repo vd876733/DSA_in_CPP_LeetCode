@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
