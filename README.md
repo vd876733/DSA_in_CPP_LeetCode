@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
