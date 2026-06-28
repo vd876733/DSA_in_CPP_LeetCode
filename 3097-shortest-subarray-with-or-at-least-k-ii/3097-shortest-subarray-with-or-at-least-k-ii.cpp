@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int minimumSubarrayLength(vector<int>& nums, int k) {
         vector<int> bits(32, 0);
         int left = 0;
