@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
