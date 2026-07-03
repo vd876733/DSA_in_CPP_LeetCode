@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0551-student-attendance-record-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
