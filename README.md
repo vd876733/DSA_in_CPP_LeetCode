@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
+| [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
+| [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
