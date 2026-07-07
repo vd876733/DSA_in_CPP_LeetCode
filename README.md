@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
