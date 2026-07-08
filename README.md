@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0610-triangle-judgement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0610-triangle-judgement) |
+| [1148-article-views-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
