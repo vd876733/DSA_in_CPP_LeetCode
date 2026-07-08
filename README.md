@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
