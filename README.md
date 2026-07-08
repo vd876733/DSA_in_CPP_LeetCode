@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
