@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
