@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -264,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -323,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
