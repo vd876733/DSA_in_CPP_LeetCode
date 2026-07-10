@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
