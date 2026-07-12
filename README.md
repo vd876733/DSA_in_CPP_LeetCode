@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
