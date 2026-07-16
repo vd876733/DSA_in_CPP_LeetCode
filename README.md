@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
