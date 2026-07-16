@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 ## Ordered Set
 |  |
