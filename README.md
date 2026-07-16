@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
