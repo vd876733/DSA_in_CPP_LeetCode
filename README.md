@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
+| [0576-out-of-boundary-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
