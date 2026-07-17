@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
