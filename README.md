@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
