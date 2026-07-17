@@ -6,7 +6,7 @@ public:
         }
         int count = 0;
         for( int i = 0 ; i < t.size() ; i++){
-            if(t[i]== s[count]){
+            if(count < s.size() && t[i]== s[count]){
                 count++;
             }
         }
