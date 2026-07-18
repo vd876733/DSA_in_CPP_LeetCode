@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0567-permutation-in-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0977-squares-of-a-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
