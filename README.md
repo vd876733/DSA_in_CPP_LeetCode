@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -507,12 +508,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -616,11 +619,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Number Theory
 |  |
@@ -635,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
 |  |
 | ------- |
