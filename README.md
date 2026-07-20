@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
