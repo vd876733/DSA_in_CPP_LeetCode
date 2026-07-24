@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
