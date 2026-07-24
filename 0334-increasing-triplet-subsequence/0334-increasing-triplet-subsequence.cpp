@@ -17,16 +17,3 @@ public:
         return false;
     }
 };
-
-// for( int j = 1 ; j < nums.size() ; j++)
-//             if( nums[j-1] < nums[j]){
-//                 if(nums[j] < nums[i] ){
-//                     return true;
-//                     break;
-//                 }
-//             }else{
-//                 i++;
-                
-//             }
-//         }
-//         return false;
