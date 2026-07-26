@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2615-sum-of-distances) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2615-sum-of-distances) |
+| [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
