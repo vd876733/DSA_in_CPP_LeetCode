@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2090-k-radius-subarray-averages](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
