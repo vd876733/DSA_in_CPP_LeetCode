@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2090-k-radius-subarray-averages](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
