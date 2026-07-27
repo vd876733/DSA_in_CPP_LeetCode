@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
