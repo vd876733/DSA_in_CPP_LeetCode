@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0344-reverse-string) |
@@ -740,4 +741,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
