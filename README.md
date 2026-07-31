@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
