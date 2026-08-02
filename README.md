@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
