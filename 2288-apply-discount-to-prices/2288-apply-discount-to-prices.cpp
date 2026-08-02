@@ -6,8 +6,9 @@ public:
         string ans = "";
         while (ss >> word) {
             bool valid = true;
-            if (word[0] != '$' || word.size() == 1)
+            if (word[0] != '$' || word.size() == 1){
                 valid = false;
+            }
             for (int i = 1; i < word.size() && valid; i++) {
                 if (!isdigit(word[i]))
                     valid = false;
