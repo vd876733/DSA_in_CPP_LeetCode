@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1357-apply-discount-every-n-orders](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1357-apply-discount-every-n-orders) |
+| [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2140-solving-questions-with-brainpower](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -827,4 +830,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
