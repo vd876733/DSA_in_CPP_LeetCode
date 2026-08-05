@@ -889,4 +889,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
