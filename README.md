@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0761-special-binary-string) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
