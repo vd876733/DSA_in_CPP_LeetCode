@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0217-contains-duplicate) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
