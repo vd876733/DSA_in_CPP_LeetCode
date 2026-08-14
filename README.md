@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0217-contains-duplicate) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -946,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1510-stone-game-iv) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
