@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
