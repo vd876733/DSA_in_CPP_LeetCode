@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Simulation
 |  |
