@@ -16,7 +16,6 @@ public:
                 c++;
             }
         }
-
         if (a % 2 == 0) {
             return b > 0 && c > 0;
         }
