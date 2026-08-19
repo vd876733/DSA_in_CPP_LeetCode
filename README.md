@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1357-apply-discount-every-n-orders](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1357-apply-discount-every-n-orders) |
+| [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1357-apply-discount-every-n-orders) |
+| [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
