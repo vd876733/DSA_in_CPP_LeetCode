@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
