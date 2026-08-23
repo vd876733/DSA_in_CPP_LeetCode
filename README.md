@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3731-find-missing-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Counting Sort
@@ -743,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Quickselect
 |  |
 | ------- |
