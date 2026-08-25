@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1046-last-stone-weight) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3310-remove-methods-from-project) |
