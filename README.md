@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
