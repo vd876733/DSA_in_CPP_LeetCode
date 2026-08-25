@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0198-house-robber) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -1052,4 +1054,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
