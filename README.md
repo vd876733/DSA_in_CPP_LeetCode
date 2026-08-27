@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3803-count-residue-prefixes) |
 ## Sorting
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Counting Sort
