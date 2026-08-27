@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0576-out-of-boundary-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [0877-stone-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1140-stone-game-ii) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
