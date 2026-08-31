@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0739-daily-temperatures) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0576-out-of-boundary-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [0877-stone-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0877-stone-game) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1980-find-unique-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -1102,8 +1106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0457-circular-array-loop) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
