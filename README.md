@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
