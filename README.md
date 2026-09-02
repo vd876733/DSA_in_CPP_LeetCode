@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0561-array-partition](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0645-set-mismatch) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0649-dota2-senate) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
