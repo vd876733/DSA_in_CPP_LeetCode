@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0056-merge-intervals) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
