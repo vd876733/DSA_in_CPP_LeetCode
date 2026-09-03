@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0148-sort-list) |
 | [0460-lfu-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0460-lfu-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
