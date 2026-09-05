@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
