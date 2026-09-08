@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
