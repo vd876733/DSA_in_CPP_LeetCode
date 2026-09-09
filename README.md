@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0567-permutation-in-string) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0576-out-of-boundary-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0678-valid-parenthesis-string) |
