@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -1055,12 +1056,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
 | ------- |
