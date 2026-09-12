@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
