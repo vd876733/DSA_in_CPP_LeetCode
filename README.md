@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0392-is-subsequence) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -1200,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Floyd's Cycle Finding Algorithm
@@ -1226,4 +1232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0480-sliding-window-median) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
