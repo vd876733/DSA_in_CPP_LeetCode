@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0833-find-and-replace-in-string) |
+| [0835-image-overlap](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
