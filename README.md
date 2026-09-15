@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
