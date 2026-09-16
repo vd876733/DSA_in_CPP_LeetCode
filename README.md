@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
