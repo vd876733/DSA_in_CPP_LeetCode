@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1357-apply-discount-every-n-orders) |
 | [1386-cinema-seat-allocation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1563-stone-game-v) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
