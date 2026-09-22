@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0219-contains-duplicate-ii) |
