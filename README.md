@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-booking-concert-tickets-in-groups](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
