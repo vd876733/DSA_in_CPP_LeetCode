@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
