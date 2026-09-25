@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0289-game-of-life) |
 | [0324-wiggle-sort-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0994-rotting-oranges) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0043-multiply-strings) |
+| [0289-game-of-life](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1646-get-maximum-in-generated-array) |
