@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
