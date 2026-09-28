@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
