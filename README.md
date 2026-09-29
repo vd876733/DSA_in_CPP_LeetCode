@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3552-grid-teleportation-traversal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
 | ------- |
