@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0242-valid-anagram) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0397-integer-replacement) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0413-arithmetic-slices) |
@@ -1200,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -1208,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
 ## Game Theory
 |  |
@@ -1324,4 +1330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
