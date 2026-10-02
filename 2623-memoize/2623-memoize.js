@@ -1,18 +1,18 @@
 /**
  * @param {Function} fn
+ * @return {Function}
  */
-
 function memoize(fn) {
-    var cache = [];
-
-    return function(...args) {       
-        var key = args.join("-").toString();
-
-        if(cache[`${key}`] != undefined ){
-            return cache[`${key}`];
-        }
-
-        return cache[`${key}`] = Number(fn(...args));
+     const cache = {};
+    return function(...args) {
+      const key = String(args);
+      if (key in cache) {
+        return cache[key];
+      }
+      const result = fn(...args);
+      cache[key] = result;
+      return result;
+        
     }
 }
 
