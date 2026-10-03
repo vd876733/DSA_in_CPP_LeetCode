@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0049-group-anagrams) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0394-decode-string) |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
