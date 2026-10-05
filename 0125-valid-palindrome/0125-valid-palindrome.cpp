@@ -7,14 +7,14 @@ public:
                 a += tolower(s[i]);
             }
         }
-            int left = 0;
-            int right = a.length() - 1;
-            while(left < right){
-                if(a[left] != a[right]){
+            int l = 0;
+            int r = a.length() - 1;
+            while(l < r){
+                if(a[l] != a[r]){
                     return false;
                 }
-                left++;
-                right--;
+                l++;
+                r--;
             }
             return true;
 
