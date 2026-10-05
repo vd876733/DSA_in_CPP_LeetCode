@@ -7,7 +7,7 @@ public:
             while( l < r){
                 sum = numbers[l] + numbers[r];
                 if( target > sum ){
-                    l ++;
+                    l++;
                 }else if(target < sum){
                     r--;
                 }
