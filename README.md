@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3676-count-bowl-subarrays](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3676-count-bowl-subarrays) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -1287,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
