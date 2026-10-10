@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
