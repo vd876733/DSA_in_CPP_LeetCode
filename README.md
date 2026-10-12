@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2939-maximum-xor-product) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
 | [2317-maximum-xor-after-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2939-maximum-xor-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
