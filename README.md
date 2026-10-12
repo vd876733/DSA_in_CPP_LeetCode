@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
