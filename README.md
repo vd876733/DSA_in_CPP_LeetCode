@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2939-maximum-xor-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2939-maximum-xor-product) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2939-maximum-xor-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [2939-maximum-xor-product](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
