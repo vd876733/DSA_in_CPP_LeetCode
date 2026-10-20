@@ -1,11 +1,6 @@
 class Solution {
 public:
     int sortableIntegers(vector<int>& nums) {
-        
-    }
-};aclass Solution {
-public:
-    int sortableIntegers(vector<int>& nums) {
         int n = nums.size();
 
         vector<int> desc(n);  // desc[i]: number of descents nums[j] > nums[j + 1] with j < i
