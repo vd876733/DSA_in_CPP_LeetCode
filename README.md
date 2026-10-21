@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3803-count-residue-prefixes) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
