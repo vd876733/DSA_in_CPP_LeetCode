@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2562-find-the-array-concatenation-value](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-apply-discount-to-prices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2288-apply-discount-to-prices) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |
