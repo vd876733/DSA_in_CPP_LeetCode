@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
