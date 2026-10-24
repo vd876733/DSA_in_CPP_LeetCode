@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-apply-discount-to-prices](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2288-apply-discount-to-prices) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2029-stone-game-ix) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
 | [2317-maximum-xor-after-operations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2317-maximum-xor-after-operations) |
+| [2409-count-days-spent-together](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2748-number-of-beautiful-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2748-number-of-beautiful-pairs) |
