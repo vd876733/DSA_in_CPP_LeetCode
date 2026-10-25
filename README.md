@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0764-largest-plus-sign) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1140-stone-game-ii) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0475-heaters) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0704-binary-search) |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -992,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1075,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0731-my-calendar-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0901-online-stock-span) |
 | [1357-apply-discount-every-n-orders](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1357-apply-discount-every-n-orders) |
 | [2241-design-an-atm-machine](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2241-design-an-atm-machine) |
