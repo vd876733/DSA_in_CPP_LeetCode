@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0475-heaters) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0509-fibonacci-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0509-fibonacci-number) |
