@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0118-pascals-triangle) |
@@ -1326,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1347,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1368,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
