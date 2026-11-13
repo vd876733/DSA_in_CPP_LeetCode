@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0383-ransom-note) |
@@ -1330,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
