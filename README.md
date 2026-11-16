@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2266-count-number-of-texts](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2266-count-number-of-texts) |
 | [2284-sender-with-largest-word-count](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1646-get-maximum-in-generated-array](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2562-find-the-array-concatenation-value](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/2562-find-the-array-concatenation-value) |
