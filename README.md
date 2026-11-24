@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1398,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
