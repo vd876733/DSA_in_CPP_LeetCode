@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3803-count-residue-prefixes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -1431,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -1440,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -1596,4 +1601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/1859-sorting-the-sentence) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vd876733/DSA_in_CPP_LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
